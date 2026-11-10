@@ -1,5 +1,5 @@
 # Linux Permissions and Ownership
-
+ 
 Linux uses a **permission and ownership system** to control who can read, modify, or execute files and directories.
 
 Understanding permissions is essential for **Linux administration, system security, privilege management, and cybersecurity**.
